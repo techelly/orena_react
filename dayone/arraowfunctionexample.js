@@ -28,3 +28,6 @@ console.log("************Calling arrow function p**************************")
 let subResult=p(4,3);
 console.log(subResult)
 
+let l =()=>{return 2*2};
+console.log(l());
+
