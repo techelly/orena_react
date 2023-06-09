@@ -11,9 +11,6 @@ For/of
 Map Objects
 Set Objects
 Classes
-Promises --Not completed 07/06/2023
-Symbol --Not completed 07/06/2023
-Default Parameters --Not completed 07/06/2023
 Function Rest Parameter
 String.includes()
 String.startsWith()
@@ -22,11 +19,15 @@ Array.from()
 Array keys()
 Array find()
 Array findIndex()
+
+Promises 
+Symbol 
+Default Parameters
 New Math Methods
 New Number Properties
 New Number Methods
 New Global Methods
 Object entries
-JavaScript Modules
+JavaScript Modules -- Not completed
 
  */
